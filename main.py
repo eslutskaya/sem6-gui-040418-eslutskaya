@@ -4,10 +4,9 @@
 Создать программу, позволяющую вычислять систему линейных уравнений. 
 """
 
-__author__ = "___указать автора ___"
-__copyright__ = "__указать копирайт, например___Copyright 2018, Nikolay Zhukov"
-__email__ = "__указать почту___"
-
+__author__ = 'Ekaterina'
+__copyright__ = 'Copyright 2018, Slutskaya'
+__email__ = 'eslutskaya@gmail.com'
 
 
 def main():
